@@ -1,0 +1,7 @@
+jupyterlab
+jupyter
+numpy
+matplotlib
+tornado==5.1.1
+opencv-python
+opencv-contrib-python==3.4.2.16
